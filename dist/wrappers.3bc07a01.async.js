@@ -1,0 +1,1 @@
+(self["webpackChunk"]=self["webpackChunk"]||[]).push([[275],{77954:function(t,e,o){"use strict";o.r(e);var a=o(5977),l=o(85893);e["default"]=t=>{var e=t.children,o=null!==localStorage.getItem("Authorization"),r=localStorage.getItem("counterId");return o?(0,l.jsx)("div",{children:e}):(localStorage.removeItem("Authorization"),(0,l.jsx)(a.l_,{to:"/auth/login/".concat(r)}))}}}]);
